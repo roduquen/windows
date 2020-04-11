@@ -1,11 +1,3 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =9
-let g:netrw_dirhist_9='/sgoinfre/goinfre/Perso/roduquen/42_projects/42-Doom-Nukem/srcs/raytracing'
-let g:netrw_dirhist_8='/sgoinfre/goinfre/Perso/roduquen/42_projects/42-Doom-Nukem/srcs'
-let g:netrw_dirhist_7='/sgoinfre/goinfre/Perso/roduquen/42_projects/42-Doom-Nukem'
-let g:netrw_dirhist_6='/sgoinfre/goinfre/Perso/roduquen/work/docker/opencv/docker'
-let g:netrw_dirhist_5='/sgoinfre/goinfre/Perso/roduquen/work/docker/opencv'
-let g:netrw_dirhist_4='/sgoinfre/goinfre/Perso/roduquen/work/docker/opencv/docker'
-let g:netrw_dirhist_3='/sgoinfre/goinfre/Perso/roduquen/work/docker/opencv'
-let g:netrw_dirhist_2='/sgoinfre/goinfre/Perso/roduquen/work/docker/opencv/docker'
-let g:netrw_dirhist_1='/sgoinfre/goinfre/Perso/roduquen/work/docker/opencv'
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/home/roduquen/.vim/bundle/vim-one'
